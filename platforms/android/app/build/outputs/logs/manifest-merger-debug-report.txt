@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\d44dc5d30fde05f1c57f925237cb619c\AndroidManifest.xml:2:1-9:12
+MERGED from [:CordovaLib] C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\4c7e625828a0091a8368a5e58ef4c3e6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\776090bede922af69b0110339089fb9b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\31223c67c88938e5d019c6a7836d7f99\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e40ec1ce0d1abfe780921c75ad39b033\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\beb400fea841d4ba81954261326be808\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da30eb985521d6bdfe5e0951df7dfc7c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\aafd878fb6edc382ac3e5b0f37421da2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\58565e02b9fc09c32020415d7d9101e2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4ca10b159bfce63c85483de329f33419\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\3adfc31289c8dd49c3fc3e6e34ebd5c4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b85dce803d1e36e4b531fc43acc5c659\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\82993ce0d811dc1b40aa9ec5244be4e3\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:102-135
+		INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:136-194
+	android:versionCode
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\d44dc5d30fde05f1c57f925237cb619c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\d44dc5d30fde05f1c57f925237cb619c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\4c7e625828a0091a8368a5e58ef4c3e6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\4c7e625828a0091a8368a5e58ef4c3e6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\776090bede922af69b0110339089fb9b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\776090bede922af69b0110339089fb9b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\31223c67c88938e5d019c6a7836d7f99\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\31223c67c88938e5d019c6a7836d7f99\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e40ec1ce0d1abfe780921c75ad39b033\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e40ec1ce0d1abfe780921c75ad39b033\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\beb400fea841d4ba81954261326be808\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\beb400fea841d4ba81954261326be808\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da30eb985521d6bdfe5e0951df7dfc7c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da30eb985521d6bdfe5e0951df7dfc7c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\aafd878fb6edc382ac3e5b0f37421da2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\aafd878fb6edc382ac3e5b0f37421da2\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\58565e02b9fc09c32020415d7d9101e2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\58565e02b9fc09c32020415d7d9101e2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4ca10b159bfce63c85483de329f33419\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4ca10b159bfce63c85483de329f33419\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\3adfc31289c8dd49c3fc3e6e34ebd5c4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\3adfc31289c8dd49c3fc3e6e34ebd5c4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b85dce803d1e36e4b531fc43acc5c659\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b85dce803d1e36e4b531fc43acc5c659\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\82993ce0d811dc1b40aa9ec5244be4e3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\82993ce0d811dc1b40aa9ec5244be4e3\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#io.cordova.hellocordova.MainActivity
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:12:9-124
+	android:value
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:12:66-121
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:13:20-65
+uses-sdk
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\d44dc5d30fde05f1c57f925237cb619c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\d44dc5d30fde05f1c57f925237cb619c\AndroidManifest.xml:5:5-44
+MERGED from [:CordovaLib] C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\4c7e625828a0091a8368a5e58ef4c3e6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\4c7e625828a0091a8368a5e58ef4c3e6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd69d28b230b80955ba3f6b200af7542\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\776090bede922af69b0110339089fb9b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\776090bede922af69b0110339089fb9b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\31223c67c88938e5d019c6a7836d7f99\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\31223c67c88938e5d019c6a7836d7f99\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e40ec1ce0d1abfe780921c75ad39b033\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e40ec1ce0d1abfe780921c75ad39b033\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\beb400fea841d4ba81954261326be808\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\beb400fea841d4ba81954261326be808\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da30eb985521d6bdfe5e0951df7dfc7c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da30eb985521d6bdfe5e0951df7dfc7c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\aafd878fb6edc382ac3e5b0f37421da2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\aafd878fb6edc382ac3e5b0f37421da2\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\58565e02b9fc09c32020415d7d9101e2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\58565e02b9fc09c32020415d7d9101e2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4ca10b159bfce63c85483de329f33419\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4ca10b159bfce63c85483de329f33419\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\3adfc31289c8dd49c3fc3e6e34ebd5c4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\3adfc31289c8dd49c3fc3e6e34ebd5c4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b85dce803d1e36e4b531fc43acc5c659\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\b85dce803d1e36e4b531fc43acc5c659\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\82993ce0d811dc1b40aa9ec5244be4e3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\82993ce0d811dc1b40aa9ec5244be4e3\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\beb400fea841d4ba81954261326be808\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:15:15-41
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:18:22-76
+uses-feature#0x00020000
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a34473bf2d55975082ec1e945ac831ef\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:19:19-51
+	android:required
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:19:52-75
+uses-feature#android.hardware.location
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:20:19-59
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Kappa\Desktop\googleMapsCordova\platforms\android\app\src\main\AndroidManifest.xml:21:19-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Kappa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3dd911ae02a4704c642142064decd089\AndroidManifest.xml:24:13-79
