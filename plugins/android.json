@@ -13,6 +13,9 @@
     "cordova-plugin-googlemaps": {
       "API_KEY_FOR_ANDROID": "AIzaSyBcPgM2jb-rnXKu8KH5uqFik4GKqDCPOGg",
       "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
     }
   },
   "dependent_plugins": {}

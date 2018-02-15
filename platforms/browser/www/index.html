@@ -46,9 +46,16 @@
             <button>Add marker</button>
         </a>
     </div>
-    <select onchange="changeMarkerIcon()">
-        <option value="https://image.flaticon.com/icons/svg/34/34338.svg">Flag</option>
+    <select id="marker-select">
+        <option value="">Default</option>
+        <option value="flag-map-marker.png">Flag</option>
+        <option value="map-marker.png">Pin</option>
     </select>
+    <select id="color-select">
+            <option value="red">Red</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+        </select>
     <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
 </body>

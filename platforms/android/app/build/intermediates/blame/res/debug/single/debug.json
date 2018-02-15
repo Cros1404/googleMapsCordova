@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Kappa\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3dd911ae02a4704c642142064decd089\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Kappa\\Desktop\\googleMapsCordova\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "C:\\Users\\Kappa\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3dd911ae02a4704c642142064decd089\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
         "merged": "C:\\Users\\Kappa\\Desktop\\googleMapsCordova\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
         "source": "C:\\Users\\Kappa\\Desktop\\googleMapsCordova\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Kappa\\Desktop\\googleMapsCordova\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Kappa\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3dd911ae02a4704c642142064decd089\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\Kappa\\Desktop\\googleMapsCordova\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",

@@ -11,9 +11,12 @@ var app = {
   // Bind any cordova events here. Common events are:
   // 'pause', 'resume', etc.
   onDeviceReady: function () {
-    console.log("HELLO");
     var mapDiv = document.getElementById("map_canvas1");
-    var map = plugin.google.maps.Map.getMap(mapDiv); 
+    var map = plugin.google.maps.Map.getMap(mapDiv);
+    var icon = window.sessionStorage.getItem("icon");
+    var color = window.sessionStorage.getItem("color");
+    var iconOption = (icon ? "img/" + color + "/" + icon : color);
+    console.log(iconOption);
     map.addEventListener(plugin.google.maps.event.MAP_READY, function () {
       var isRunning = false;
       document.getElementById("addAdressMarker").addEventListener("click", function () {
@@ -32,7 +35,7 @@ var app = {
             // Add a marker
             map.addMarker({
               'position': results[0].position,
-              'icon': window.localStorage.getItem("icon")
+              'icon': iconOption
             }, function (marker) {
 
               // Move to the position
@@ -66,7 +69,7 @@ var app = {
         // Add a marker
         map.addMarker({
           'position': myLatLng,
-          'icon': window.localStorage.getItem("icon")
+          'icon': iconOption
         }, function (marker) {
 
           // Move to the position

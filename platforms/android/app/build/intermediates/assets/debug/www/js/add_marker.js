@@ -16,7 +16,6 @@ var app = {
     var icon = window.sessionStorage.getItem("icon");
     var color = window.sessionStorage.getItem("color");
     var iconOption = (icon ? "img/" + color + "/" + icon : color);
-    console.log(iconOption);
     map.addEventListener(plugin.google.maps.event.MAP_READY, function () {
       var isRunning = false;
       document.getElementById("addAdressMarker").addEventListener("click", function () {
