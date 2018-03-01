@@ -6,9 +6,6 @@ function geocode() {
       "Latitude " + results[0].position.lat +
       ", Longitude " + results[0].position.lng;
   });
-
-  var mapDiv = document.getElementById("map_canvas1");
-  var map = plugin.google.maps.Map.getMap(mapDiv);
 }
 
 var app = {
